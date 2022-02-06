@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# Hola Mundo
+Mi primer repositorio.
 
 Author: luisDur
 Date: 02-06-2022
